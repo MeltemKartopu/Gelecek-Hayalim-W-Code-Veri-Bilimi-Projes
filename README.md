@@ -1,15 +1,15 @@
-# <span style="color: purple;">Gelecek Hayalim W Code Data Workshop</span>
+# ![Gelecek Hayalim W Code Data Workshop](https://img.shields.io/badge/Gelecek%20Hayalim%20W%20Code%20Data%20Workshop-purple?style=flat-square)
 
 This workshop was established by Ford Otosan to support the development of women in technology and innovation, and it has been realized through a social investment project supported by the Vehbi Koç Foundation and in collaboration with Mikado Sustainable Development Consulting.
 
-## <span style="color: blue;">Technology and Gender Equality (TEMA)</span>
-### <span style="color: purple;">Project Title</span>
+## ![Technology and Gender Equality (TEMA)](https://img.shields.io/badge/Technology%20and%20Gender%20Equality%20(TEMA)-blue?style=flat-square)
+### ![Project Title](https://img.shields.io/badge/Project%20Title-purple?style=flat-square)
 **Gender Equality in Technology: Analysis of Gender-Based Salary Differences**
 
-### <span style="color: blue;">Project Aim</span>
+### ![Project Aim](https://img.shields.io/badge/Project%20Aim-purple?style=flat-square)
 To analyze salary differences between genders to understand gender inequality in society.
 
-### <span style="color: purple;">Project Summary</span>
+### ![Project Summary](https://img.shields.io/badge/Project%20Summary-purple?style=flat-square)
 The data science process consisted of the following steps:
 
 1. **Data Reading**: The Glassdoor Gender Pay Gap dataset was read and prepared for analysis.
@@ -19,10 +19,11 @@ The data science process consisted of the following steps:
 5. **Machine Learning Algorithms**: Models were created using methods such as regression and decision trees to evaluate the impact of gender on salary.
 6. **Finding the Best Model**: The performance of the models was compared to identify the one yielding the best results.
 
-### <span style="color: purple;">Findings</span>
+### ![Findings](https://img.shields.io/badge/Findings-purple?style=flat-square)
 - Significant salary differences were detected between male and female employees.
 - Although gender does not create a large disparity in base salary, it has a significant impact.
 - Performance evaluations, seniority, education level, and other variables were identified as important factors affecting salary differences.
 
-### <span style="color: blue;">Conclusion</span>
+### ![Conclusion](https://img.shields.io/badge/Conclusion-blue?style=flat-square)
 The project provides a valuable resource for better understanding salary differences between genders. The findings regarding gender in STEM fields contain important insights to raise awareness about gender equality.
+
