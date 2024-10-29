@@ -1,1 +1,1 @@
-# Gelecek-Hayalim-W-Code-Veri-Bilimi-Projes
+# Gelecek-Hayalim-W-Code-Veri-Bilimi-Projesi
