@@ -1,8 +1,8 @@
 
 ![unnamed](https://github.com/user-attachments/assets/696379aa-3e1e-4b5b-a158-a75b6c01884f)
 
-# Gelecek Hayalim: W-Code Data Science and Machine Learning Workshop
-![Purple Banner](https://img.shields.io/badge/_______________________________________________________________________________________________________________________________________%20-purple?style=flat-square)
+## Gelecek Hayalim: W-Code Data Science and Machine Learning Workshop
+![Purple Banner](https://img.shields.io/badge/____________________________________________________________________________________________________________________________________________________________________________________________________________________%20-purple?style=flat-square)
 
 This workshop was established by Ford Otosan to support the development of women in technology and innovation, and it has been realized through a social investment project supported by the Vehbi Koç Foundation and in collaboration with Mikado Sustainable Development Consulting.
 
